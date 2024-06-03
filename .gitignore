@@ -1,0 +1,9 @@
+#directories
+.jukit/
+#files
+*.ipynb
+flooding.py
+submission_1.csv
+submission_2.csv
+submission_3.csv
+submission_4.csv
